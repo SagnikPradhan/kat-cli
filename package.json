@@ -1,0 +1,13 @@
+{
+  "name": "kat-cli",
+  "version": "1.0.0",
+  "description": "A Cli interface for KAT",
+  "main": "index.js",
+  "author": "Sagnik Pradhan",
+  "license": "MIT",
+  "dependencies": {
+    "colorette": "^1.1.0",
+    "jsdom": "^16.2.2",
+    "node-fetch": "^2.6.0"
+  }
+}
